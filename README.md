@@ -67,9 +67,9 @@ A *.txt* file contains a list describes clone and subclone information of cells,
 
 We randomly select cells from the original barcode datasets provided by the paper and form testing datasets contains 20, 30 and 60 cells, respectively. Those datasets are provided in the package for test running. Below are some examples results of visualization.
 
-![Circle Packing Plot for 60 cells.](github-figs/circle.jpg){width="211"}
+![Circle Packing Plot for 60 cells.](github-figs/circle.jpg)
 
-![Circular Node Tree Plot for 30 cells.](github-figs/circletree.jpg){width="212"}
+![Circular Node Tree Plot for 30 cells.](github-figs/circletree.jpg)
 
 ## References
 
