@@ -14,6 +14,11 @@ In this method, the static barcodes in each cell remain unchanged throughout the
 
 The analysis workflow of this algorithm project can be divided into four steps.
 
+- Cluster cells into clones by static barcode ID.
+- Align evolving barcodes.
+- Cluster cells from the same clone into subclones.
+- Visualize the results.
+
 ![](github-figs/flow.jpg)
 
 ## Install
@@ -65,11 +70,10 @@ A *.txt* file contains a list describes clone and subclone information of cells,
 
 ## Example results
 
-We randomly select cells from the original barcode datasets provided by the paper and form testing datasets contains 20, 30 and 60 cells, respectively. Those datasets are provided in the package for test running. Below are some examples results of visualization.
+We randomly select cells from the original barcode datasets provided by the paper and form testing datasets contains 20, 30 and 60 cells, respectively. Those datasets are provided in the package for test running. Below are some examples results of visualization, representing analyses results of 60 (left) or 30 (right) cells, respectively. 
 
-![Circle Packing Plot for 60 cells.](github-figs/circle.jpg)
+<img src="github-figs/circle.jpg" width="400"/><img src="github-figs/circletree.jpg" width="400"/>
 
-![Circular Node Tree Plot for 30 cells.](github-figs/circletree.jpg)
 
 ## References
 
