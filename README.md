@@ -19,7 +19,7 @@ The analysis workflow of this algorithm project can be divided into four steps.
 - Cluster cells from the same clone into subclones.
 - Visualize the results.
 
-![](github-figs/flow.jpg)
+![](github-figs/workflow.jpg)
 
 ## Install
 
