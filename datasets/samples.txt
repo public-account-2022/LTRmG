@@ -1,0 +1,7 @@
+tissues	sample
+PT	f
+Lung	t
+Liver	t
+Met	t
+PTab	t
+Blood	t
