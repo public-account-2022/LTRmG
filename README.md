@@ -60,9 +60,12 @@ Seven parameters in total can be specified when running this package in the term
 
 ## Usage
 
-``` python
-$ python3 
-# Prints out the standard-readme spec
+You can run the following code to test our package after downloading it. 
+
+``` bash
+$ python3 LTRmG.py -filename example.txt \
+  -output . \
+  -score1 1 -score2 -2 -score3 -1
 ```
 
 ## Output
