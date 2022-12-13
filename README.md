@@ -65,9 +65,9 @@ Seven parameters in total can be specified when running this package in the term
 You can run the following code to test our package after downloading it. 
 
 ``` bash
-python3 LTRmG.py -filename example.txt \
--output . \
--score1 1 -score2 -2 -score3 -1
+python3 LTRmG.py -f example.txt \
+-o ./results/subclones.txt \
+-a 1 -b -2 -c -1
 ```
 
 ## Output
