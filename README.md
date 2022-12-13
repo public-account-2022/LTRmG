@@ -27,6 +27,8 @@ You can directly download this package from GitHub.
 
 ## Setting up running environment
 
+Note that we use Python 3.8.15. 
+
 | Package    | Version |
 |------------|---------|
 | circlify   | 0.15.0  |
@@ -37,7 +39,7 @@ You can directly download this package from GitHub.
 | numpy      | 1.23.5  |
 | pandas     | 1.5.2   |
 | pygraphiz  | 1.10    |
-| python     | 3.8.15  |
+| seaborn    | 0.12.1  |
 
 ## Input
 
