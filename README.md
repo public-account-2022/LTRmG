@@ -56,6 +56,7 @@ Seven parameters in total can be specified when running this package in the term
 | **-a/--score1**           | score of match in alignment score calculation process.                                                                                                                                                                                                        |
 | **-b/--score2**           | score of mismatch in alignment score calculation process.                                                                                                                                                                                                     |
 | **-c/--score3**           | score of indel in alignment score calculation process.                                                                                                                                                                                                        |
+| **-p/--position**           | a string indicates the original position of the primary tumor.
 
 ## Usage
 
