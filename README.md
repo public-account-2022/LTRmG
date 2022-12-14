@@ -53,12 +53,12 @@ Eight parameters in total can be specified when running this package in the term
 |-------------------|-----------------------------------------------------|
 | **-f/--filename**         | a file path for input, usually is a file contains cell IDs and barcode sequences.                                                                                                                                                                             |
 | **-o/--output**           | a file path for output, including a .txt file and figures in .png format, stored in separate directories under the current working directory.                                                                                                                 |
-| **-s/--sample**           | a table file contains two columns that describes tissues and samples. 'Tissue' indicates the tissue from where cells are extracted, 'sample' indicates whether cells from each tissue should be sampled when identifying clones, indicating by True or False. |
-| **-n/--numberofclusters** | the number of cell clones to call during clone clustering.                                                                                                                                                                  |
+| **-s/--sample**           | a table file contains two columns that describes harvest sites and samples. ’Tissue’ indicates the harvest sites from where cells are extracted, ’sample’ indicates whether cells from each site should be sampled when identifying clones, indicating by True or False. |
+| **-n/--numclus** | the number of cell clones to call during clone clustering.                                                                                                                                                                  |
 | **-a/--score1**           | score of match in alignment score calculation process.                                                                                                                                                                                                        |
 | **-b/--score2**           | score of mismatch in alignment score calculation process.                                                                                                                                                                                                     |
 | **-c/--score3**           | score of indel in alignment score calculation process.                                                                                                                                                                                                        |
-| **-p/--position**           | a string indicates the original position of the primary tumor.
+| **-p/--position**           | the name (in column "sample") of tumor initial site.
 
 ## Usage
 
