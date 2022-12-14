@@ -89,7 +89,13 @@ Wagner, D. E., & Klein, A. M. (2020). Lineage tracing meets single-cell omics: o
 
 ## Maintainers
 
-Group 4
+Zhejiang University-University of Edinburgh Institute (ZJE)
+
+Biomedical Informatics Class 2020
+
+BMI3 Course: Group 4, Project 2
+
+Supervisor: Wanlu Liu
 
 ## Contributing
 
