@@ -76,9 +76,11 @@ A *.txt* file contains a list describes clone and subclone information of cells,
 
 ## Example results
 
-We randomly select cells from the original barcode datasets provided by the paper and form testing datasets contains 20, 30 and 60 cells, respectively. Those datasets are provided in the package for test running. Below are some examples results of visualization, representing analyses results of 60 (left) or 30 (right) cells, respectively. 
+We randomly select cells from the original barcode datasets provided by the paper and form testing datasets contains 25, 32 and 60 cells, respectively. Those datasets are provided in the package for test running. Below are some examples results of visualization, representing analyses results of 60 (left), 32 (right) and 22 (bottom, clone 1) cells, respectively. 
 
 <img src="github-figs/circle.jpg" width="400"/><img src="github-figs/circletree.jpg" width="400"/>
+
+<img src="github-figs/node_tree.jpg" width="800"/>
 
 
 ## References
